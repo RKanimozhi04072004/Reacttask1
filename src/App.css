@@ -1,0 +1,18 @@
+h1{
+    text-align:center;
+    width:450px;
+    margin:0 auto;
+    margin-top:100px;
+    font-family:'Times New Roman', Times, serif;
+    font-style:bold;
+}
+.word{
+    display:flex;
+    flex-direction:column;
+    width:450px;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    position:relative;
+    margin:0 auto;
+}
